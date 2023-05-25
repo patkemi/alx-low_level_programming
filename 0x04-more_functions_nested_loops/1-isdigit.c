@@ -1,7 +1,8 @@
 #include "main.h"
+
 /**
- * _isdigit - check if numbes rare 0 - 9
- * @c: character to be checked
+ * _isdigit - check if numbers are 0 - 9
+ * @c: char to be checked
  *
  * Return: 0 or 1
  */
